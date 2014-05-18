@@ -6,4 +6,4 @@
 * Did you have an "aha" moments or were any concepts solidified?
 * Did you find any resources on your own that helped you better understand a topic? If so, please list it.
 
-This is only a test.
+This is only a test. I'm still trying to get this to work.
