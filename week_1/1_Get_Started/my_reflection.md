@@ -6,14 +6,6 @@
 * Why do developers use version control (git)? Does that make sense to you? Why or why not?
 * What doesn't make sense? What does?
 
-## 1. [Git and Github](1_get_started/readme.md) Reflection
-
-* What struggles did you have setting up git and GitHub? What did you learn in the process?
-* Write an explanation of and compare git and GitHub to a non-technical audience. 
-* Describe what version control is and how GitHub helps with it.
-* Why do developers use version control (git)? Does that make sense to you? Why or why not?
-* What doesn't make sense? What does?
-
 Some struggles setting up git and GitHub:  I didn't have any problems seting up GitHub although once it was set up I didn't really understand what it was or how to navigate it.  Git was a little more complicated.  I discovered that my iMac had an old operating system which would not install git.  To update my OS I would first need to backup everything on my computer, which could take a while.  Fortunately, my girlfriend has a MacBook that she lent me.  Unfortunately, she couldn't remember the password for installing software, so it looked like I was stuck.  After further conversation, she remembered a piece a paper that had the password and now I'm back in business.  I will be getting my own laptop next week so I will get to do this again and hopefully it will go perfectly smoothly.
 
 What did I learn?  Current software sometimes does not run on old operating systems.  When you update an operating system you want to backup your computer first.  It's important to remember where you saved your passwords.  Ultimately, never give up, never surrender.
