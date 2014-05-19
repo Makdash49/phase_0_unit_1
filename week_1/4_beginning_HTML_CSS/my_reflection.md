@@ -11,7 +11,7 @@ What doesn't make sense?  It all makes sense.  I just don't know much yet.  I ha
 
 What's good is that it requires you to be very specific about what you want.  What's bad is that you have to previsualize everything.  When I work in Word, I change font sizes and move things around until it feels right.  In that way, my work feels more hands on.
 
-I think concepts were solidified this time.  How to make an image a link.  It was good practice.  I've done it before but it was good to have a refresher.
+I think concepts were solidified this time.  How to make an image a link.  It was good practice.  I've done it before but it was good to have a refresher.  Thanks.
 
 I did some Google Searches to answer some questions.
 
