@@ -10,4 +10,14 @@
 * Which parts of the challenge did you enjoy?
 * Which parts of the challenge did you find tedious?
 
-<!-- Add your reflection here. Remove the comment markers -->
+I learned that it's important for a website to have a logical flow and find the right balance between presenting a lot of information and choices and just a few.  It's also important for the advertising to stand out.
+
+I enjoyed creating the wireframes.  If I had more time I could have gone into greater detail.
+
+My question was "How am I going to create a nice looking wireframe?"  I asked my accountablility mate Max and he recommened Balsamiq.
+
+I learned how to use Balsamiq.
+
+Pretty confident.
+
+I enjoyed laying out the images.  It was a little tedious finding the graphics in Balsamiq that I wanted to use but I'm sure if I use it more I'll become more familiar with what is available.
