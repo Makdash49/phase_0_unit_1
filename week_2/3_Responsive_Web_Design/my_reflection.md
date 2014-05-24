@@ -1,6 +1,7 @@
 # U1.W2: Responsive Design Reflection
 
 * What is responsive web design? Do you like it?  Do you think it's a good practice? Why or why not?
+
 Responsive web design is web design that responds effectively to the size of the screen in which the user is using.  To do this it doesn't use only pixels as units for width.  It used ems.  Ems are more relative.  Also it uses percentages and fluid grids and media queries.
 
 
