@@ -5,3 +5,6 @@
 * How do you think visually impaired people use the web? Can they? Should we design and development for them?
 * What ideas and concepts have resonated with you when learning about the web and design? What seems stupid or doesn't make sense?
 * Did you find any resources on your own that helped you better understand a topic? If so, please list it.
+
+
+TEST TEST TEST
