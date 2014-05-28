@@ -6,4 +6,4 @@ Reflect on the process of researching and writing a blog post. It doesn't have t
 
 Basically, at this point my main goal is to catch up while still learning a tremendous amount and connecting with the DBC community.  In the future I would like to spend much more time on this assignment, but for now my goal was to get it done.
 
-With that said, this assignment did give me a chance to consider the design of some of my favorite websites and to consider how they affect me.  I know from now on I will be more conscious of the design of websites I encounter and I will try to apply my experiences to my web design.
+With that said, this assignment did give me a chance to consider the design of some of my favorite websites and to consider how they affect me.  I know from now on I will be more conscious of the design of websites I encounter and I will try to apply my experiences to my web design.  I found it valuable.
