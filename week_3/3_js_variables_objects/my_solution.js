@@ -1,23 +1,32 @@
-// I paired [by myself, with:] on this challenge.
+// I paired [with: Kim Brewer] on this challenge.
 
 // __________________________________________
 // Write your code below.
-
-
-
-
-
-
+var secretNumber = 7;
+var password = "just open the door";
+var allowedIn = 5 < 3;
+var members = ["John", 4, 3, "Mary", 1];
 
 
 // __________________________________________
 // Reflection: Use the reflection guidelines to write a reflection here. 
-// 
-// 
-// 
-// 
-// 
-// 
+// At first when I saw this challenge, I did not know what I was looking at.
+// It looked like gibberish to me and I got a little stressed.
+// I had read about the JavaScript and I understood that it does many of the 
+// same things Ruby does but the syntax had not settled in with me.
+// Fortunately, Kim Brewer offered to pair with me on this and she was able
+// to explain what everything meant and I understood it because it's a lot like Ruby.
+//
+//
+//What parts of your strategy worked? What problems did you face?
+What questions did you have while coding? What resources did you find to help you answer them?
+What concepts are you having trouble with, or did you just figure something out? If so, what?
+Did you learn any new skills or tricks?
+How confident are you with each of the Learning Competencies?
+Which parts of the challenge did you enjoy?
+Which parts of the challenge did you find tedious?
+
+
 
 
 // __________________________________________
