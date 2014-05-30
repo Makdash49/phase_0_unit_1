@@ -13,14 +13,39 @@ var terah = {
 }
 
 
-
 // __________________________________________
 // Write your code below.
 
 
 
+var adam = {
+  name: "Adam",
+  spouse: terah
+}
+
+terah.spouse = adam
+terah.weight = 125
+delete terah.eyeColor
+
+terah.children = []
 
 
+
+// var adam = {name: "Adam"}
+// terah.spouse = adam
+// terah.weight = 125
+// delete terah["eyeColor"]
+// adam.spouse = terah
+// var carson = {name: "Carson"}
+// var carter = {name: "Carter"}
+// var colton = {name: "Colton"}
+
+// terah.children = []
+// terah.children.carson = carson
+// terah.children.carter = carter
+// terah.children.colton = colton
+
+// adam.children = terah.children
 
 
 
@@ -30,9 +55,9 @@ var terah = {
 // 
 // 
 // 
-// 
-// 
-
+// // 
+// http://stackoverflow.com/questions/208105/how-to-remove-a-property-from-a-javascript-object
+// http://msdn.microsoft.com/en-us/library/ie/kb6te8d3(v=vs.94).aspx
 
 // __________________________________________
 // Driver Code:  Do not alter code below this line.
