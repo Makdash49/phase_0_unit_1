@@ -37,12 +37,9 @@ delete terah.eyeColor
 terah.children = {}
 
 //Add variables of the names and assign them as the children of terah.
-var carson = {name: "Carson"}
-terah.children.carson = carson
-var carter = {name: "Carter"}
-terah.children.carter = carter
-var colton = {name: "Colton"}
-terah.children.colton = colton
+terah.children.carson = { name: "Carson"}
+terah.children.carter = { name: "Carter"}
+terah.children.Colton = { name: "Colton"}
 
 
 //Set Adam's children equal to Terah's.
