@@ -31,23 +31,25 @@
 
 
 
-this.say.message = "Follow me!"
+this.say = ("Follow me!")
 
 this.move.XY(52,60);
 
 var taunt=function(taunt) {}
 
+this.say = ("Ogre, You smell like sweet Roses!")
+
 this.move.XY(32,70);
 
-this.say.message = "Get in the boat!"
+this.say = ("Get in the boat!")
 
 var getInBoat = function(command) {}
 
-this.say.message = "Start rowing!"
+this.say = ("Start rowing!")
 
 var startRowing = function(command) {}
 
-this.say.message = "Row harder!"
+this.say = ("Row harder!")
 
 var rowHarder = function(command) {}
 
@@ -61,7 +63,10 @@ var rowHarder = function(command) {}
 
 
 // Reflection
-// 
+// It was fun imagining a level of Code Combat.  I wanted to use some of the game mechanisms I had played in the game while introducing
+// some new ones.  I'm not really sure how to program some of the other elements like a river or even an Ogre.  I tried to just use
+// the code that we used in the game.  I imagine I would have to learn a lot more to actually put this together and I look forward to
+// learning it one day although I imagine Dev Bootcamp will focus on learning Ruby.
 // 
 // 
 // 
